@@ -10,7 +10,7 @@ projects[drupal][download][root] = ":pserver:anonymous:anonymous@cvs.drupal.org:
 projects[drupal][download][revision] = "HEAD"
 projects[drupal][download][module] = "drupal"
 
-projects[legestue_net][type] = "profile"
-projects[legestue_net][download][type] = "git"
-projects[legestue_net][download][url] = "git://github.com/lsolesen/larsolesen.dk.git"
-projects[legestue_net][download][branch] = "master"
+projects[larsolesen_dk][type] = "profile"
+projects[larsolesen_dk][download][type] = "git"
+projects[larsolesen_dk][download][url] = "git://github.com/lsolesen/larsolesen.dk.git"
+projects[larsolesen_dk][download][branch] = "master"

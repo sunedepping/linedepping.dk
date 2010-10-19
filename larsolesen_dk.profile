@@ -25,7 +25,7 @@ function larsolesen_dk_profile_modules() {
     'path', 'profile', 'search', 'shortcut', 'statistics', 'taxonomy', 'toolbar', 'tracker', 'translation̈́',
     'trigger', 'update',
     /* other contrib */ 
-    'views', 'google_analytics', 'fblike'
+    'views', 'google_analytics', 'features'
   );
 }
 
