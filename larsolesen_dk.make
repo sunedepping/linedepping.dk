@@ -5,7 +5,6 @@ core = 7.x
 projects[] = google_analytics
 projects[] = wysiwyg
 projects[] = views
-projects[] = features
 
 ; Themes
 ;projects[rubik][type] = "theme"
