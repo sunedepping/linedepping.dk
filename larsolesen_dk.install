@@ -4,7 +4,7 @@
  *
  * Perform actions to set up the site for this profile.
  */
-function standard_install() {
+function larsolesen_dk_install() {
   // Add text formats.
   $filtered_html_format = array(
     'name' => 'Filtered HTML',
@@ -59,7 +59,7 @@ function standard_install() {
   $full_html_format = (object) $full_html_format;
   filter_format_save($full_html_format);
 
-  // Enable some standard blocks.
+  // Enable some larsolesen_dk blocks.
   $default_theme = variable_get('theme_default', 'bartik');
   $admin_theme = 'seven';
   $values = array(
