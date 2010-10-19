@@ -2,11 +2,7 @@ api = 2
 
 core = 7.x
 
-projects[] = addthis
-projects[] = fblike
 projects[] = google_analytics
-projects[] = install_profile_api
-projects[] = xmlsitemap
 projects[] = wysiwyg
 projects[] = views
 
