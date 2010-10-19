@@ -1,7 +1,7 @@
-Legestue.net
+larsolesen.dk
 ==
 
-Instructions on how to build legestue.net from a standard drupal.
+Instructions on how to build the site from Drupal 7.
 
 Requirements
 --
