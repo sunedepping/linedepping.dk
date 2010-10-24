@@ -6,6 +6,7 @@ projects[] = google_analytics
 projects[] = wysiwyg
 projects[] = views
 projects[] = features
+projects[] = pathauto
 
 ; Themes
 ;projects[rubik][type] = "theme"

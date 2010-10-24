@@ -23,5 +23,7 @@ dependencies[] = rdf
 dependencies[] = features
 dependencies[] = wysiwyg
 dependencies[] = views
+dependencies[] = views_ui
 dependencies[] = google_analytics
+dependencies[] = pathauto
 files[] = larsolesen_dk.profile
