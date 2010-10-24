@@ -7,6 +7,7 @@ projects[] = wysiwyg
 projects[] = views
 projects[] = features
 projects[] = pathauto
+projects[] = xmlsitemap
 
 ; Themes
 ;projects[rubik][type] = "theme"
