@@ -12,7 +12,7 @@ projects[] = devel
 projects[] = ctools
 projects[] = styles
 projects[] = entity
-projects[] = media
+;projects[] = media
 ;projects[] = context
 
 ; Themes
