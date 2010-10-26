@@ -8,6 +8,12 @@ projects[] = views
 projects[] = features
 projects[] = pathauto
 projects[] = xmlsitemap
+projects[] = devel
+projects[] = ctools
+projects[] = context
+projects[] = styles
+projects[] = entity
+projects[] = media
 
 ; Themes
 ;projects[rubik][type] = "theme"
