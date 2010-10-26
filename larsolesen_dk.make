@@ -10,10 +10,10 @@ projects[] = pathauto
 projects[] = xmlsitemap
 projects[] = devel
 projects[] = ctools
-projects[] = context
 projects[] = styles
 projects[] = entity
 projects[] = media
+;projects[] = context
 
 ; Themes
 ;projects[rubik][type] = "theme"
