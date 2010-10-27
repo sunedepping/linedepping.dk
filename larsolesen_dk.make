@@ -14,7 +14,7 @@ projects[] = styles
 projects[] = entity
 ;projects[] = media
 ;projects[] = context
-projects[] = boxes
+;projects[] = boxes
 
 ; Themes
 ;projects[rubik][type] = "theme"

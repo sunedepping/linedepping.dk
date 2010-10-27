@@ -35,5 +35,5 @@ dependencies[] = styles_ui
 dependencies[] = file_styles
 dependencies[] = entity
 ;dependencies[] = media
-dependencies[] = boxes
+;dependencies[] = boxes
 files[] = larsolesen_dk.profile
