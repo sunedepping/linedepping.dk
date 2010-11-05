@@ -12,9 +12,9 @@ projects[] = devel
 projects[] = ctools
 projects[] = styles
 projects[] = entity
-;projects[] = media
-;projects[] = context
-;projects[] = boxes
+projects[] = media
+projects[] = context
+projects[] = boxes
 
 ; Themes
 ;projects[rubik][type] = "theme"
