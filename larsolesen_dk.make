@@ -12,9 +12,14 @@ projects[] = devel
 projects[] = ctools
 projects[] = styles
 projects[] = entity
-projects[] = media
-projects[] = context
-projects[] = boxes
+
+; needs to use exact versions otherwise it will not work
+projects[context] = 3.0-alpha2
+projects[boxes] = 1.0-beta1
+projects[media] = 1.x-dev
+projects[feeds] = 2.0-alpha2
+projects[job_scheduler] = 2.0-alpha1
+projects[video_upload] = 1.0-beta1
 
 ; Themes
 ;projects[rubik][type] = "theme"
