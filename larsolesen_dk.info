@@ -38,5 +38,5 @@ dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = feeds
 dependencies[] = job_scheduler
-dependencies[] = video_upload
+dependencies[] = transliteration
 files[] = larsolesen_dk.profile
