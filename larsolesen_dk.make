@@ -9,12 +9,14 @@ projects[features][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[xmlsitemap][subdir] = contrib
 projects[devel][subdir] = contrib
-projects[ctools][subdir] = contrib
 projects[styles][subdir] = contrib
 projects[entity][subdir] = contrib 
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-alpha2
+
+projects[ctools][subdir] = contrib
+projects[ctools][version] = 7.x-1.x-dev
 
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0-beta1
