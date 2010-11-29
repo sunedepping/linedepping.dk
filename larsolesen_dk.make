@@ -9,20 +9,22 @@ projects[features][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[xmlsitemap][subdir] = contrib
 projects[devel][subdir] = contrib
-projects[styles][subdir] = contrib
 projects[entity][subdir] = contrib 
+
+projects[styles][subdir] = contrib
+projects[styles][version] = 1.0-alpha1
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-alpha2
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 7.x-1.x-dev
+projects[ctools][version] = 1.x-dev
 
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0-beta1
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.x-dev
+projects[media][version] = 1.0-beta2
 
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.0-alpha2
