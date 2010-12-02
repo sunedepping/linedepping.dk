@@ -18,10 +18,6 @@ projects[devel][subdir] = contrib
 projects[features][subdir] = contrib
 
 projects[feeds][subdir] = contrib
-
-projects[google_analytics][subdir] = contrib
-
-projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.0-alpha2
 
 projects[job_scheduler][subdir] = contrib
