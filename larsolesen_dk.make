@@ -2,6 +2,11 @@ api = 2
 
 core = 7.x
 
+projects[activitystream][type] = "module"
+projects[activitystream][download][type] = "git"
+projects[activitystream][download][url] = "git://github.com/kylebrowning/activitystream.git"
+projects[activitystream][download][branch] = "DRUPAL-7--2"
+
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0-beta1
 
@@ -13,7 +18,7 @@ projects[ctools][version] = 1.x-dev
 
 projects[devel][subdir] = contrib
 
-;projects[entity][subdir] = contrib 
+projects[entity][subdir] = contrib 
 
 projects[features][subdir] = contrib
 
@@ -26,6 +31,12 @@ projects[feeds][version] = 2.0-alpha2
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha1
+
+projects[l10n_client][subdir] = contrib
+projects[l10n_client][version] = 1.x-dev
+
+projects[l10n_update][subdir] = contrib
+projects[l10n_update][version] = 1.x-dev
 
 ;projects[media][subdir] = contrib
 ;projects[media][version] = 1.x-dev
