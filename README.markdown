@@ -1,4 +1,4 @@
-larsolesen.dk
+[larsolesen.dk](http://larsolesen.dk)
 ==
 
 Instructions on how to build the site from Drupal 7.
@@ -12,12 +12,12 @@ Requirements
 Installation
 --
 
-    drush make larsolesen_dk.build /var/www/larsolesen_dk_build
+    drush make larsolesen_dk.build ~/workspace/larsolesen_dk_build
     
-Create the settings.php in sites/all/default
-Create "files" directory in sites/all/default
+Create the settings.php in sites/default and chmod 755
+Create "files" directory in sites/default and chmod 755
 
-Navigate to the root directory in a webbrowser.
+Navigate to the root directory in a webbrowser and run the install profile.
 
 #### Update existing install profile ####
 
