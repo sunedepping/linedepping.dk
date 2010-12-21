@@ -13,6 +13,9 @@ projects[boxes][version] = 1.0-beta1
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-alpha2
 
+projects[creativecommons][subdir] = contrib
+projects[creativecommons][version] = 1.x-dev
+
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.x-dev
 

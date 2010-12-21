@@ -25,6 +25,7 @@ dependencies[] = rdf
 dependencies[] = boxes
 dependencies[] = context
 dependencies[] = context_ui
+dependencies[] = creativecommons
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = features
