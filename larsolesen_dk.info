@@ -23,6 +23,7 @@ dependencies[] = rdf
 
 ;contrib
 dependencies[] = boxes
+dependencies[] = codefilter
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = creativecommons

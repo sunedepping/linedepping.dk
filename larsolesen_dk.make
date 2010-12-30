@@ -10,6 +10,9 @@ projects[activitystream][download][branch] = "DRUPAL-7--2"
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0-beta1
 
+projects[codefilter][subdir] = contrib
+projects[codefilter][version] = 1.x-dev
+
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-alpha2
 
