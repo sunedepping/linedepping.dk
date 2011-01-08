@@ -45,17 +45,17 @@ projects[l10n_client][version] = 1.x-dev
 projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.x-dev
 
-;projects[media][subdir] = contrib
-;projects[media][version] = 1.x-dev
+projects[media][subdir] = contrib
+projects[media][version] = 1.0-beta2
 
-;projects[media_youtube][subdir] = contrib
+projects[media_youtube][subdir] = contrib
 
 projects[pathauto][subdir] = contrib
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta2
 
-;projects[styles][subdir] = contrib
+projects[styles][subdir] = contrib
 
 projects[token][subdir] = contrib
 
