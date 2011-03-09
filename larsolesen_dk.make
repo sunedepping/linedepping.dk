@@ -12,7 +12,6 @@ projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0-beta1
 
 projects[codefilter][subdir] = contrib
-projects[codefilter][version] = 1.x-dev
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-alpha2
@@ -34,10 +33,10 @@ projects[feeds][subdir] = contrib
 projects[google_analytics][subdir] = contrib
 
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-alpha2
+projects[feeds][version] = 2.0-alpha3
 
 projects[job_scheduler][subdir] = contrib
-projects[job_scheduler][version] = 2.0-alpha1
+projects[job_scheduler][version] = 2.0-alpha2
 
 projects[l10n_client][subdir] = contrib
 projects[l10n_client][version] = 1.x-dev
@@ -46,7 +45,7 @@ projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.x-dev
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.0-beta2
+projects[media][version] = 1.0-beta3
 
 projects[media_youtube][subdir] = contrib
 
