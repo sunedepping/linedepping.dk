@@ -5,7 +5,7 @@ core = 7.x
 projects[activitystream][subdir] = contrib
 projects[activitystream][type] = "module"
 projects[activitystream][download][type] = "git"
-projects[activitystream][download][url] = "git://github.com/kylebrowning/activitystream.git"
+projects[activitystream][download][url] = "git://github.com/GiantRobot/activitystream.git"
 projects[activitystream][download][branch] = "DRUPAL-7--2"
 
 projects[boxes][subdir] = contrib
