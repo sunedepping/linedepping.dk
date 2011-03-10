@@ -3,8 +3,7 @@ api = 2
 
 core = 7.x
 
-; CVS checkout of Drupal 7.x. Requires the `core` property to be set to 7.x.
-projects[] = drupal
+projects[drupal][type] = drupal
 
 projects[larsolesen_dk][type] = "profile"
 projects[larsolesen_dk][download][type] = "git"
