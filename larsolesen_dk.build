@@ -3,7 +3,7 @@ api = 2
 
 core = 7.x
 
-projects[drupal][type] = drupal
+projects[drupal][type] = core
 
 projects[larsolesen_dk][type] = "profile"
 projects[larsolesen_dk][download][type] = "git"
