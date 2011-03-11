@@ -14,13 +14,11 @@ projects[boxes][version] = 1.0-beta1
 projects[codefilter][subdir] = contrib
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.0-alpha2
 
 projects[creativecommons][subdir] = contrib
 projects[creativecommons][version] = 1.x-dev
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.x-dev
 
 projects[devel][subdir] = contrib
 
@@ -39,10 +37,8 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha2
 
 projects[l10n_client][subdir] = contrib
-projects[l10n_client][version] = 1.x-dev
 
 projects[l10n_update][subdir] = contrib
-projects[l10n_update][version] = 1.x-dev
 
 projects[media][subdir] = contrib
 projects[media][version] = 1.0-beta3
@@ -59,7 +55,6 @@ projects[styles][subdir] = contrib
 projects[token][subdir] = contrib
 
 projects[transliteration][subdir] = contrib
-projects[transliteration][version] = 3.0-alpha1
 
 projects[views][subdir] = contrib
 
