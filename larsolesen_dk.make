@@ -49,6 +49,9 @@ projects[media_youtube][subdir] = contrib
 
 projects[pathauto][subdir] = contrib
 
+projects[similarterms][subdir] = contrib
+projects[similarterms][version] = 1.0-alpha2
+
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta2
 
