@@ -9,14 +9,14 @@ projects[activitystream][download][url] = "git://github.com/GiantRobot/activitys
 projects[activitystream][download][branch] = "DRUPAL-7--2"
 
 projects[boxes][subdir] = contrib
-projects[boxes][version] = 1.0-beta1
+projects[boxes][version] = 1.0-beta3
 
 projects[codefilter][subdir] = contrib
 
 projects[context][subdir] = contrib
 
 projects[creativecommons][subdir] = contrib
-projects[creativecommons][version] = 1.x-dev
+projects[creativecommons][version] = 1.0-alpha1
 
 projects[ctools][subdir] = contrib
 
