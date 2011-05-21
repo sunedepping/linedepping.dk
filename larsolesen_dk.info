@@ -1,6 +1,6 @@
 name = larsolesen.dk
 description = Installs larsolesen.dk
-version = 0.1.0
+version = 7.x-0.1
 core = 7.x
 dependencies[] = block
 dependencies[] = color
@@ -22,8 +22,10 @@ dependencies[] = file
 dependencies[] = rdf
 
 ;contrib
+dependencies[] = antispam
 dependencies[] = boxes
 dependencies[] = codefilter
+dependencies[] = comment_notify
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = creativecommons
@@ -38,6 +40,7 @@ dependencies[] = l10n_client
 dependencies[] = l10n_update
 dependencies[] = media
 dependencies[] = pathauto
+dependencies[] = scribd_filter
 dependencies[] = styles
 dependencies[] = styles_ui
 dependencies[] = transliteration
@@ -45,4 +48,5 @@ dependencies[] = wysiwyg
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = xmlsitemap
+
 files[] = larsolesen_dk.profile
