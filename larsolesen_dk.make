@@ -8,8 +8,6 @@ projects[activitystream][download][type] = "git"
 projects[activitystream][download][url] = "git://github.com/GiantRobot/activitystream.git"
 projects[activitystream][download][branch] = "DRUPAL-7--2"
 
-projects[antispam][subdir] = contrib
-
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.0-beta3
 
@@ -50,6 +48,8 @@ projects[media][subdir] = contrib
 projects[media][version] = 1.0-beta4
 
 projects[media_youtube][subdir] = contrib
+
+projects[mollom][subdir] = contrib
 
 projects[pathauto][subdir] = contrib
 

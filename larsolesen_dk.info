@@ -22,7 +22,6 @@ dependencies[] = file
 dependencies[] = rdf
 
 ;contrib
-dependencies[] = antispam
 dependencies[] = boxes
 dependencies[] = codefilter
 dependencies[] = comment_notify
@@ -39,6 +38,7 @@ dependencies[] = job_scheduler
 dependencies[] = l10n_client
 dependencies[] = l10n_update
 dependencies[] = media
+dependencies[] = mollom
 dependencies[] = pathauto
 dependencies[] = scribd_filter
 dependencies[] = styles
