@@ -27,6 +27,8 @@ projects[features][subdir] = contrib
 
 projects[feeds][subdir] = contrib
 
+projects[file_entity][subdir] = contrib
+
 projects[gist_filter][subdir] = contrib
 
 projects[google_analytics][subdir] = contrib
