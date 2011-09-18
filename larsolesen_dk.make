@@ -28,6 +28,7 @@ projects[features][subdir] = contrib
 projects[feeds][subdir] = contrib
 
 projects[file_entity][subdir] = contrib
+projects[file_entity][version] = 1.x-dev
 
 projects[gist_filter][subdir] = contrib
 
