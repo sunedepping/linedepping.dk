@@ -44,7 +44,7 @@ projects[l10n_client][subdir] = contrib
 projects[l10n_update][subdir] = contrib
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-unstable1
+projects[media][version] = 1.0-beta5
 
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 1.x-dev
