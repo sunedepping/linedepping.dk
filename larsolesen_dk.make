@@ -47,6 +47,7 @@ projects[media][subdir] = contrib
 projects[media][version] = 2.0-unstable1
 
 projects[media_youtube][subdir] = contrib
+projects[media_youtube][version] = 1.x-dev
 
 projects[mollom][subdir] = contrib
 
