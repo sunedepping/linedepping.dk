@@ -53,6 +53,8 @@ projects[mollom][subdir] = contrib
 
 projects[pathauto][subdir] = contrib
 
+projects[redirect][subdir] = contrib
+
 projects[scribd_filter][subdir] = contrib
 
 projects[similarterms][subdir] = contrib
