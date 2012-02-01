@@ -26,7 +26,7 @@ projects[features][subdir] = contrib
 projects[features][version] = 1.0-beta6
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 1.x-dev
+projects[file_entity][version] = 2.0-unstable3
 
 projects[gist_filter][subdir] = contrib
 projects[gist_filter][version] = 1.2
