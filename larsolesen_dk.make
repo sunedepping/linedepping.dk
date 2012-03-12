@@ -58,9 +58,6 @@ projects[scribd_filter][version] = 1.2
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta5
 
-projects[styles][subdir] = contrib
-projects[styles][version] = 2.0-alpha8
-
 projects[token][subdir] = contrib
 projects[token][version] = 1.0-rc1
 
