@@ -1,20 +1,11 @@
 api = 2
 core = 7.x
 
-projects[activitystream][subdir] = contrib
-projects[activitystream][type] = "module"
-projects[activitystream][download][type] = "git"
-projects[activitystream][download][url] = "git://github.com/GiantRobot/activitystream.git"
-projects[activitystream][download][branch] = "DRUPAL-7--2"
-
 projects[codefilter][subdir] = contrib
 projects[codefilter][version] = 1.0
 
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.0
-
-projects[creativecommons][subdir] = contrib
-projects[creativecommons][version] = 1.0-alpha1
 
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.0-rc1
