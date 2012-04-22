@@ -22,13 +22,14 @@ dependencies[] = rdf
 ;contrib
 dependencies[] = codefilter
 dependencies[] = comment_notify
-dependencies[] = creativecommons
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = features
+dependencies[] = file_entity
 dependencies[] = googleanalytics
 dependencies[] = l10n_update
 dependencies[] = media
+dependencies[] = media_youtube
 dependencies[] = mollom
 dependencies[] = pathauto
 dependencies[] = scribd_filter
