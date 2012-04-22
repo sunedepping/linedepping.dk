@@ -8,13 +8,13 @@ projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.0
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.0-rc1
+projects[ctools][version] = 1.0
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.0-rc1 
+projects[entity][version] = 1.0-rc2
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-beta6
+projects[features][version] = 1.0-rc2
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-unstable3
@@ -26,13 +26,13 @@ projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.2
 
 projects[l10n_update][subdir] = contrib
-projects[l10n_update][version] = 1.0-beta2
+projects[l10n_update][version] = 1.0-beta3
 
 projects[media][subdir] = contrib
 projects[media][version] = 2.0-unstable3
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 1.0-alpha5
+projects[media_youtube][version] = 1.0-beta3
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 1.1
@@ -50,13 +50,13 @@ projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta5
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.0-rc1
+projects[token][version] = 1.0
 
 projects[transliteration][subdir] = contrib
 projects[transliteration][version] = 3.0
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.1
+projects[views][version] = 3.3
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.1
