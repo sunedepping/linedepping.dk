@@ -13,8 +13,8 @@ before_script:
   - pear channel-discover pear.drush.org
   - pear install drush/drush
   - phpenv rehash
-  - drush make larsolesen_dk.build ../larsolesen.dk
-  - cd ../larsolesen.dk
+  - drush make larsolesen_dk.build ../larsolesen_dev.dk
+  - cd ../larsolesen_dev.dk
   - sudo chmod -R 777 sites/all/modules
   - drush si larsolesen_dk --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="larsolesen.dk" --yes
   - drush cc all --yes
