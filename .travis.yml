@@ -22,5 +22,4 @@ before_script:
 script: 
   - test -d profiles/larsolesen_dk
   - test -d profiles/larsolesen_dk/modules/contrib
-  - test -d profiles/larsolesen_dk/modules/vih
   - test -d profiles/larsolesen_dk/themes
