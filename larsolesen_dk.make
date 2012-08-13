@@ -8,13 +8,13 @@ projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.0
+projects[ctools][version] = 1.1
 
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-rc3
+projects[features][version] = 1.0
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-unstable6
@@ -38,7 +38,7 @@ projects[mollom][subdir] = contrib
 projects[mollom][version] = 1.1
 
 projects[pathauto][subdir] = contrib
-projects[pathauto][version] = 1.1
+projects[pathauto][version] = 1.2
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.0-beta4
@@ -50,7 +50,7 @@ projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta5
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.1
+projects[token][version] = 1.2
 
 projects[transliteration][subdir] = contrib
 projects[transliteration][version] = 3.1
