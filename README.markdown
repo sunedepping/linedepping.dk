@@ -1,4 +1,4 @@
-[larsolesen.dk](http://larsolesen.dk)
+[larsolesen.dk](http://larsolesen.dk) [![Build Status](https://secure.travis-ci.org/lsolesen/larsolesen.dk.png?branch=master)](http://travis-ci.org/lsolesen/larsolesen.dk)
 ==
 
 Instructions on how to build the site from Drupal 7.
