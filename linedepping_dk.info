@@ -1,6 +1,6 @@
-name = larsolesen.dk
-description = Installs larsolesen.dk
-version = 7.x-0.2
+name = linedepping.dk
+description = Installs linedepping.dk
+version = 7.x-0.1
 core = 7.x
 dependencies[] = block
 dependencies[] = comment
