@@ -1,4 +1,4 @@
-[linedepping.dk](http://linedepping.dk)
+[linedepping.dk](http://linedepping.dk) [![Build Status](https://secure.travis-ci.org/sunetjensen/linedepping.dk.png)](http://travis-ci.org/sunetjensen/linedepping.dk)
 ==
 
 Instructions on how to build the site from Drupal 7.
