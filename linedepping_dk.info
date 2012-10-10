@@ -28,6 +28,7 @@ dependencies[] = media
 dependencies[] = media_youtube
 dependencies[] = mollom
 dependencies[] = pathauto
+dependencies[] = strongarm
 dependencies[] = transliteration
 dependencies[] = views
 dependencies[] = views_ui
