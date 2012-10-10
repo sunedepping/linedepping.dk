@@ -3,6 +3,9 @@ core = 7.x
 
 ; Contrib Modules ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+projects[colorbox][subdir] = contrib
+projects[colorbox][version] = 1.3
+
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
@@ -69,3 +72,8 @@ libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.5/ckeditor_3.6.5.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
+
+libraries[colorbox][download][type] = "get"
+libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
+libraries[colorbox][directory_name] = ""
+libraries[colorbox][destination] = "libraries"
