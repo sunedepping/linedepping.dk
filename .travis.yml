@@ -13,12 +13,12 @@ before_script:
   - pear channel-discover pear.drush.org
   - pear install drush/drush
   - phpenv rehash
-  - drush make larsolesen_dk.build ../larsolesen_dev.dk
-  - cd ../larsolesen_dev.dk
+  - drush make linedepping_dk.build ../linedepping_dev.dk
+  - cd ../linedepping_dev.dk
   - sudo chmod -R 777 sites/
-  - drush si larsolesen_dk --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="larsolesen.dk" --yes
+  - drush si linedepping_dk --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="linedepping.dk" --yes
   - drush cc all --yes
 
 script: 
-  - test -d profiles/larsolesen_dk
-  - test -d profiles/larsolesen_dk/modules/contrib
+  - test -d profiles/linedepping_dk
+  - test -d profiles/linedepping_dk/modules/contrib
