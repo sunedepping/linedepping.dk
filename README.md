@@ -1,4 +1,4 @@
 linedepping.dk
 ==============
 
-Drupal Website for linedepping.dk
+master branch left empty intentionally.
