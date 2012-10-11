@@ -3,6 +3,9 @@ core = 7.x
 
 ; Contrib Modules ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+projects[better_formats][subdir] = contrib
+projects[better_formats][version] = 1.0-beta1
+
 projects[colorbox][subdir] = contrib
 projects[colorbox][version] = 1.3
 
