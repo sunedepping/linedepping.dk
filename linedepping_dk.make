@@ -58,6 +58,9 @@ projects[views][version] = 3.5
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.2
 
+projects[wysiwyg_filter][subdir] = contrib
+projects[wysiwyg_filter][version] = 1.6-rc2
+
 ; Themes ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 projects[omega][subdir] = contrib
