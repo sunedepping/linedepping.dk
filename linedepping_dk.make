@@ -7,7 +7,7 @@ projects[better_formats][subdir] = contrib
 projects[better_formats][version] = 1.0-beta1
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 1.3
+projects[colorbox][version] = 2.0
 
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
@@ -22,13 +22,13 @@ projects[features][subdir] = contrib
 projects[features][version] = 1.0
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-unstable6
+projects[file_entity][version] = 2.0-unstable7
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = 1.2
+projects[google_analytics][version] = 1.3
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-unstable6
+projects[media][version] = 2.0-unstable7
 
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 1.0-beta3
@@ -44,7 +44,7 @@ projects[redirect][version] = 1.x-dev
 projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[strongarm][subdir] = contrib
-projects[strongarm][version] = 2.0-beta5
+projects[strongarm][version] = 2.0
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.4
