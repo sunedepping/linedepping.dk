@@ -27,6 +27,9 @@ projects[file_entity][version] = 2.0-unstable7
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.3
 
+projects[libraries][subdir] = contrib
+projects[libraries][version] = 2.0
+
 projects[media][subdir] = contrib
 projects[media][version] = 2.0-unstable7
 
