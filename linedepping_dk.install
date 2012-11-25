@@ -101,3 +101,9 @@ function linedepping_dk_install() {
   filter_format_save($filtered_html_format);  
 }
 
+/**
+ * Enable the commerce_backoffice_content module.
+ */
+function commerce_kickstart_update_7200() {
+  module_enable(array('adaptive_image'));
+}
