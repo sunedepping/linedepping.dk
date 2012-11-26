@@ -104,6 +104,6 @@ function linedepping_dk_install() {
 /**
  * Enable the commerce_backoffice_content module.
  */
-function linedepping_dk_update_7200() {
+function linedepping_dk_update_7100() {
   module_enable(array('adaptive_image'));
 }
