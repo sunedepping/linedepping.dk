@@ -6,9 +6,6 @@ core = 7.x
 projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
-projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.0
-
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
@@ -55,7 +52,3 @@ projects[simpline][download][branch] = "7.x-1.x"
 
 ; Libraries ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
-libraries[colorbox][directory_name] = ""
-libraries[colorbox][destination] = "libraries"
