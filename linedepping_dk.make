@@ -1,22 +1,6 @@
 api = 2
 core = 7.x
 
-; Contrib Modules ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-projects[adaptive_image][subdir] = contrib
-projects[adaptive_image][version] = 1.4
-
-projects[special_menu_items][subdir] = contrib
-projects[special_menu_items][version] = 2.0
-
-projects[wysiwyg_filter][subdir] = contrib
-projects[wysiwyg_filter][version] = 1.6-rc2
-
-; Themes ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-projects[omega][subdir] = contrib
-projects[omega][version] = 3.1
-
 ; Custom Modules ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 projects[depping_design][type] = "module"
@@ -43,6 +27,3 @@ projects[simpline][type] = "theme"
 projects[simpline][download][type] = "git"
 projects[simpline][download][url] = "git://github.com/sunetjensen/linedepping.dk-theme.git"
 projects[simpline][download][branch] = "7.x-1.x"
-
-; Libraries ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
