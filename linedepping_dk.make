@@ -6,12 +6,6 @@ core = 7.x
 projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
-projects[comment_notify][subdir] = contrib
-projects[comment_notify][version] = 1.1
-
-projects[mollom][subdir] = contrib
-projects[mollom][version] = 1.1
-
 projects[special_menu_items][subdir] = contrib
 projects[special_menu_items][version] = 2.0
 
