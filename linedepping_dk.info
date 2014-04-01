@@ -2,6 +2,7 @@ name = linedepping.dk
 description = Installs linedepping.dk
 version = 7.x-0.1
 core = 7.x
+
 dependencies[] = block
 dependencies[] = comment
 dependencies[] = contextual
@@ -27,7 +28,6 @@ dependencies[] = file_entity
 dependencies[] = googleanalytics
 dependencies[] = media
 dependencies[] = media_youtube
-dependencies[] = mollom
 dependencies[] = pathauto
 dependencies[] = strongarm
 dependencies[] = transliteration
