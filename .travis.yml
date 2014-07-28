@@ -21,4 +21,3 @@ before_script:
 
 script: 
   - test -d profiles/linedepping_dk
-  - test -d profiles/linedepping_dk/modules/contrib
