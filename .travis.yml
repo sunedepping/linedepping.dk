@@ -26,7 +26,7 @@ install:
   # Download site.
   - drush make build-linedepping-dev.make ../linedepping_dev.dk
   - cd ../linedepping_dev.dk
-  - sudo chmod -R 777 sites/
+  - chmod -R 777 sites/
 
 before_script:
 
