@@ -28,6 +28,9 @@ install:
   - cd ../linedepping_dev.dk
   - chmod -R 777 sites/
 
+  # Disable sendmail
+  - echo sendmail_path=`which true` >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+
 before_script:
 
   - drush si linedepping_dk --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="linedepping.dk" --yes
