@@ -7,6 +7,8 @@ defaults[projects][subdir] = contrib
 
 projects[adaptive_image][version] = 1.4
 
+projects[colorbox][version] = 2.12
+
 projects[comment_notify][version] = 1.3
 
 projects[ctools][version] = 1.10
