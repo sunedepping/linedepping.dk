@@ -15,7 +15,7 @@ projects[entity][version] = 1.7
 
 projects[features][version] = 2.10
 
-projects[file_entity][version] = 2.0-
+projects[file_entity][version] = 2.0
 
 projects[google_analytics][version] = 2.3
 
