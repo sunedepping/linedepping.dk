@@ -9,6 +9,11 @@ projects[adaptive_image][version] = 1.4
 
 projects[colorbox][version] = 2.12
 
+libraries[colorbox][download][type] = "get"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
+libraries[colorbox][directory_name] = ""
+libraries[colorbox][destination] = "libraries"
+
 projects[comment_notify][version] = 1.3
 
 projects[ctools][version] = 1.10
@@ -20,6 +25,8 @@ projects[features][version] = 2.10
 projects[file_entity][version] = 2.0-beta3
 
 projects[google_analytics][version] = 2.3
+
+projects[libraries][version] = 2.3
 
 projects[media][version] = 2.0-beta2
 
