@@ -18,24 +18,22 @@ dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
 
-;contrib
+; contrib modules.
 dependencies[] = adaptive_image
 dependencies[] = comment_notify
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = features
 dependencies[] = file_entity
-dependencies[] = googleanalytics
 dependencies[] = media
 dependencies[] = media_youtube
 dependencies[] = pathauto
 dependencies[] = strongarm
 dependencies[] = transliteration
 dependencies[] = views
-dependencies[] = views_ui
 dependencies[] = wysiwyg
 
-;custom
+; custom modules.
 dependencies[] = depping_pages
 dependencies[] = depping_news
 dependencies[] = depping_design
