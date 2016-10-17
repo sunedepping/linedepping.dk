@@ -4,3 +4,6 @@
 modules/*
 themes/*
 libraries/*
+.vagrant
+docroot
+.idea
